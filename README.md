@@ -2,7 +2,7 @@
 
 This short project involves the creation of a simple, rule-based chatbot using the Natural Language Toolkit (NLTK) library in Python. The chatbot, named J.A.R.V.I.S., can engage in basic conversations and respond to user inputs based on predefined patterns and responses. This project demonstrates fundamental concepts of natural language processing (NLP) and how they can be applied to build interactive applications.
 
-## Project Objectives
+## Objectives
 - To create a basic chatbot capable of handling simple conversations.
 - To understand and implement the use of pattern matching for chatbot responses.
 - To explore the use of reflections in enhancing the chatbot's conversational capabilities.
